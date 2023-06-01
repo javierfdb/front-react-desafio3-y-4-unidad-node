@@ -1,0 +1,64 @@
+body {
+  background: #f1f1f1;
+}
+
+.form {
+  padding: 15px;
+  background: #0d47a1;
+  color: white;
+  max-height: 420px;
+}
+
+.card-body {
+  background: #e1e2e1;
+}
+
+.card-body .p-3 {
+  min-height: 170px;
+}
+
+.card-body .p-3 .card-text {
+  min-height: 50px;
+}
+
+#creado {
+  background: #002b55;
+}
+
+.card {
+  background: transparent !important;
+  border: none !important;
+}
+
+.fa-solid {
+  color: red;
+}
+
+i {
+  cursor: pointer;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.card-body {
+  margin-bottom: 2rem;
+}
+
+.card-body figure {
+  width: 100%;
+  margin-bottom: 0px;
+  position: relative;
+  height: 18rem;
+}
+
+.w-100 {
+  width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    -o-object-fit: cover;
+    object-fit: cover;
+}
